@@ -1,9 +1,9 @@
 # Site settings
-title: XRp
+title: XRP Canada
 author:
   name: E Will
   email: your-email@domain.com
 description: "Great site about Jekyll on GH-Pages."
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: broccolini/swiss
