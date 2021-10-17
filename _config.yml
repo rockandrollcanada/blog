@@ -23,7 +23,10 @@ github_username: rockandrollcanada
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
 social_link: twitter
-social_username: jekyllrb
+social_username: glenrockinsmith
+
+social_link: instagram
+social_username: rockandrollcanada
 
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
@@ -33,4 +36,4 @@ theme_color: red
 
 remote_theme: broccolini/swiss
 
-theme_color: red
+
