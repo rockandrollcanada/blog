@@ -30,4 +30,7 @@ social_username: jekyllrb
 theme_color: red
 
 # Build settings
-remote_theme: jekyll-swiss', '~> 1.0'
+
+remote_theme: broccolini/swiss
+
+theme_color: red
