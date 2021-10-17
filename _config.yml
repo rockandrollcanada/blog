@@ -25,12 +25,12 @@ github_username: rockandrollcanada
 social_link: twitter
 social_username: glenrockinsmith
 
+# Build settings
+
+remote_theme: broccolini/swiss
 
 
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
 theme_color: red
 
-# Build settings
-
-remote_theme: broccolini/swiss
