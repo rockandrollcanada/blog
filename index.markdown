@@ -4,10 +4,7 @@
 
 layout: home
 ---
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <style>
 .container {
   position: relative;
@@ -27,8 +24,8 @@ layout: home
   border: none;
 }
 </style>
-</head>
-<body>
+
+
 
 <h2>Responsive Iframe</h2>
 <h3>Maintain Aspect Ratio 16:9</h3>
@@ -38,5 +35,4 @@ layout: home
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
 </div>
 
-</body>
-</html>
+
