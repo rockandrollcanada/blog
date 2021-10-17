@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: XRP Blog CANADA
 description: The story of XRP in Canada.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "blog" # the subpath of your site, e.g. /blog
+url: "https://github.com/rockandrollcanada" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: blog # the GitHub repo name for your project
 github_username: rockandrollcanada
 
