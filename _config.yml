@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: XRP Blog Today
-description: A bold typographic theme inspired by Swiss design.
+description: The story of XRP in Canada .
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: jekyll # the GitHub repo name for your project
-github_username: jekyll
+github_username: rockandrollcanada
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
