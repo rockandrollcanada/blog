@@ -34,5 +34,4 @@ theme_color: red
 # Build settings
 
 remote_theme: broccolini/swiss
-
-
+markdown: kramdown
