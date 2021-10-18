@@ -30,4 +30,6 @@ social_username: jekyllrb
 theme_color: black
 
 # Build settings
+remote_theme: broccolini/swiss
 markdown: kramdown
+
